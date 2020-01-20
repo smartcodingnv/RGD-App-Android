@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B9DB9B</color>
+    <color name="colorPrimaryDark">#B9DB9B</color>
+    <color name="colorAccent">#767676</color>
+    <color name="green">#02652E</color>
+    <color name="greenmedium">#76C043</color>
+    <color name="greenlight">#B9DB9B</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#767676</color>
+    <color name="lightgray">#707070</color>
+    <color name="colorLink">#4E80FC</color>
+    <color name="colorIdolDetailDialogBackground">#7E414141</color>
+
+</resources>
