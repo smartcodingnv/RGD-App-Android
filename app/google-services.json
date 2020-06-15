@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "625825778412",
+    "firebase_url": "https://rgd-app-live.firebaseio.com",
+    "project_id": "rgd-app-live",
+    "storage_bucket": "rgd-app-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625825778412:android:5984dbfe689dc3da66f3c9",
+        "android_client_info": {
+          "package_name": "com.rgd.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625825778412-o6o4rl0k0e54mau6bs0iocbus07llase.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rgd.app",
+            "certificate_hash": "952510afe006f7a728348cbdc423ee7e404ce152"
+          }
+        },
+        {
+          "client_id": "625825778412-d1pikv0v229o8s94didrni7qltrluhsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rgd.app",
+            "certificate_hash": "b93588143e9fbc3aac01b043bfaa8710188db70c"
+          }
+        },
+        {
+          "client_id": "625825778412-n7gc1fqtaq1udbmimpk82ec36k6615er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhSXu0Ovx7QO1Xxy1vHDqJ224x0MVL3E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625825778412-n7gc1fqtaq1udbmimpk82ec36k6615er.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625825778412-juh26r906nkmqr01p85vc7irl9ep0e06.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rgd.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
